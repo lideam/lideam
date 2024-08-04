@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/83/46/33/1000_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lidetu</h1>
 <h3 align="center">A passionate frontend and backend developer from Ethiopia</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
