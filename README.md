@@ -1,4 +1,4 @@
-[![MasterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)](https://lidetuamare-portfolio.vercel.app)
+[![MasterHead](https://raw.githubusercontent.com/lideam/lideam/main/banner.png)](https://lidetuamare-portfolio.vercel.app)
 <h1 align="center">Hi 👋, I'm Lidetu Amare</h1>
 <h3 align="center">Full Stack & Mobile App Developer | React.js • Node.js • Flutter • React Native</h3>
 
